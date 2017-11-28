@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="RESTfulWCF_And_HowToConsume.TestRESTfulWCF" CodeBehind="TestRESTfulWCF.svc.cs" %>
